@@ -1,7 +1,2 @@
-Hi Guys, I have created this project using tkinter.
-#Requirement for this project
-import tkinter 
-import random
-import datetime
-import tkinter.messagebox
-import os
+Restaurant billing system on python (Tkinter).
+The details of the customer is saved through file handling.
